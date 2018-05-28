@@ -1,6 +1,4 @@
-//
 //  ApiRequestClass.m
-//  TripIn2
 //
 //  Created by Anand Kumar Singh on 01/01/18.
 //  Copyright © 2018 Vyrazu Labs Pvt Ltd. All rights reserved.
