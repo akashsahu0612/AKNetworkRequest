@@ -4,7 +4,7 @@
 //  Copyright © 2018 Vyrazu Labs Pvt Ltd. All rights reserved.
 //
 
-#import "AKNetworkRequest.m"
+#import "AKNetworkRequest.h"
 @implementation AKNetworkRequest
 
 -(void)getdataFromWebService : (NSDictionary *)requestDict : (NSString *)requestUrl : (NSString *)requestType : (NSString *)contentType : (id)callBackTemp :(SEL)callBackSelector
