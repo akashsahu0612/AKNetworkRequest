@@ -1,14 +1,11 @@
-//
-//  ApiRequestClass.m
-//  TripIn2
+//  AKNetworkRequest.m
 //
 //  Created by Anand Kumar Singh on 01/01/18.
 //  Copyright © 2018 Vyrazu Labs Pvt Ltd. All rights reserved.
 //
 
-#import "ApiRequestClass.h"
-#import "AppDelegate.h"
-@implementation ApiRequestClass
+#import "AKNetworkRequest.m"
+@implementation AKNetworkRequest
 
 -(void)getdataFromWebService : (NSDictionary *)requestDict : (NSString *)requestUrl : (NSString *)requestType : (NSString *)contentType : (id)callBackTemp :(SEL)callBackSelector
 {
